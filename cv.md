@@ -1,6 +1,6 @@
 # Yury Andrabaila
 
-![Alt-фото](Путь к файлу "Подпись")
+![Alt-фото](https://github.com/Andrabaila/rsschool-cv/blob/gh-pages/1517021752742.jpg)
 ___
 ## Contact
 * androbailo@gmail.com
@@ -21,19 +21,24 @@ ___
 
 ## Skills
 * HTML
-*CSS
-*PHP
-*JS
-*Git
-*Markdown
-* Сode examples
+* CSS
+* PHP
+* JS
+* Git
+* Markdown
 
-Work experience
-Studying at rsschool is my first experience of real work as a developer.
 
-Education
+### Сode examples
+[CV на GitHub Pages](https://github.com/Andrabaila/rsschool-cv)
+
+## Work experience
+***Studying at rsschool is my first experience of real work as a developer***
+
+## Education
 Belarusian-Russian University
+
 Specialty: technical operation of vehicles
+
 Qualification: mechanical engineer
 
-English: A2.
+#### English: A2.
