@@ -1,6 +1,6 @@
 # Yury Andrabaila
 
-![Alt-фото](https://github.com/Andrabaila/rsschool-cv/blob/f9843502b741544739be793d138174b19df6d905/1517021752742.jpg)
+![foto](https://user-images.githubusercontent.com/98847287/159718547-5dd85245-0da8-436e-8b50-ea3d4364f51e.jpg)
 ___
 ## Contact
 * androbailo@gmail.com
