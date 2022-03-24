@@ -41,4 +41,4 @@ Specialty: technical operation of vehicles
 
 Qualification: mechanical engineer
 
-#### English: A2.
+#### English: A2
